@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@lmdc-ignite-ds-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -26,10 +26,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@lmdc-ignite-ds-ui/eslint-config": "*",
+    "@lmdc-ignite-ds-ui/react": "*",
+    "@lmdc-ignite-ds-ui/tokens": "*",
+    "@lmdc-ignite-ds-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
