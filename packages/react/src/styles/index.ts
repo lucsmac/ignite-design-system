@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@lmdc-ignite-ds-ui/tokens'
 
 export const {
   styled,
