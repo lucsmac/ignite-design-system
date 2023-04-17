@@ -1,0 +1,2 @@
+import{A as t}from"./index.169fb758.js";import"./index.66e85e6c.js";import"./iframe.23524d42.js";import"./index.bc89f504.js";import"./jsx-runtime.b17bce54.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lucsmac.png",alt:"Lucas Macedo"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.4292cb96.js.map
